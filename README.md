@@ -29,6 +29,7 @@
 - [DNS Dumpster](https://dnsdumpster.com/)
 - [Findomain/Findomain](https://github.com/Findomain/Findomain)
 - [projectdiscovery/subfinder](https://github.com/projectdiscovery/subfinder)
+- [aboul3la/Sublist3r](https://github.com/aboul3la/Sublist3r)
 
 #### 端口
 
@@ -38,6 +39,7 @@
   - [Advanced vulnerability scanning with Nmap NSE](https://github.com/scipag/vulscan)
   - [NSE script based on Vulners.com API](https://github.com/vulnersCom/nmap-vulners)
 - [Nikto](http://www.cirt.net/Nikto2)
+- [projectdiscovery/naabu](https://github.com/projectdiscovery/naabu)
 
 ### Web服务
 
@@ -61,6 +63,13 @@
 - [SecTools.Org](https://sectools.org/)
 - [Kali Linux Metapackages](https://www.kali.org/docs/general-use/metapackages/)
 - [MetaOSINT](https://metaosint.github.io/chart)
+
+## CVEs
+
+- [trickest/cve](https://github.com/trickest/cve)
+- [projectdiscovery/nuclei-templates](https://github.com/projectdiscovery/nuclei-templates)
+- [Snyk Vulnerability Database](https://security.snyk.io/vuln)
+- [qazbnm456/awesome-cve-poc](https://github.com/qazbnm456/awesome-cve-poc)
 
 ## 相关项目
 
